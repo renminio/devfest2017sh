@@ -1,2 +1,2 @@
-# DevFest 2017 Shanghai TensorFlow Workshop
-Materials for DevFest 2017 Shanghai TensorFlow Workshop
+# This repo is deprecated.
+Please check https://github.com/renminio/slides
